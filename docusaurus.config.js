@@ -8,20 +8,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
-  title: 'Help Docusaurus',
-  tagline: 'hdocusaurus',
+  title: 'Документация',
+  tagline: 'docs',
   favicon: 'img/favicon.ico',
 
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/sdocs/',
 
   // Set the production url of your site here
-  url: 'https://yrabos.github.io.sdocusaurus',
+  url: 'https://yrabos.github.io',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'yrabos', // Usually your GitHub org/user name.
-  projectName: 'hdocusaurus', // Usually your repo name.
+  projectName: 'sdocs', // Usually your repo name.
   deploymentBranch: 'main',
   trailingSlash: true,
 
