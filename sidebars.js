@@ -7,14 +7,23 @@ module.exports = {
             label: 'Docusaurus',
             link: {type: 'doc', id: 'docusaurus/docusaurus'},
             items: [
-                'docusaurus/install', {
+                'docusaurus/install',
+                {
                     type: 'category',
                     label: 'Создание проекта',
-                    link: {type: 'doc', id: 'docusaurus/create'},
+                    link: {type: 'doc', id: 'docusaurus/create/create'},
                     items: [
-                        'docusaurus/create_local',
-                        'docusaurus/create_deploy',
+                        'docusaurus/create/create_local',
+                        'docusaurus/create/create_deploy',
                     ],
+                },
+                {
+                    type: 'category',
+                    label: 'Редактирование проекта',
+                    link: {type: 'doc', id: 'docusaurus/edit/edit'},
+                    items: [
+                        'docusaurus/edit/prepare',
+                    ]
                 }
            ],
         },
