@@ -22,7 +22,7 @@ module.exports = {
                     label: 'Редактирование проекта',
                     link: {type: 'doc', id: 'docusaurus/edit/edit'},
                     items: [
-                        'docusaurus/edit/prepare',
+                        'docusaurus/edit/start',
                     ]
                 }
            ],
