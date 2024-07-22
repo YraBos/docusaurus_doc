@@ -1,20 +1,36 @@
 ---
 title: 'Проигрывание видео'
 ---
+import ReactPlayer from "react-player";
 
 В процессе создания сайта возможно потребуется проиграть видео-файл, но не с YouTube, хотя такое тоже возможно, предлагаемым ниже способом, 
 а используя ReactPlayer. Для этого необходимо: 
 
-1. В консоли проекта инсталлировать ReactPlayer, если он не был инсталлирован ранее, выполнением команды: **npm install react-player**
+1. В консоли проекта инсталлировать ReactPlayer, если он не был инсталлирован ранее,  
+   выполнением команды: **npm install react-player**
 2. В код модуля добавить `import ReactPlayer from "react-player";`
-3. В код модуля добавить вызов плеера: `<ReactPlayer playing controls url='/sdocs/./files/pink1.mp4' />`
+3. В код модуля добавить вызов плеера: `<ReactPlayer playing controls url='/baseUrl/./files/композиция.mp4'/>`
 
-import ReactPlayer from "react-player";
-<ReactPlayer playing controls url='/sdocs/./files/pink1.mp4' />
+Некоторые пояснения:
+- baseUrl - базовый URL, в конкретном случае это дочерний сайт и его базовый baseUrl = '/sdocs/'
+- files - просто имя подкаталога (может быть любое) в каталоге static. При этом наименование static исключается из определения пути
+- композиция - проигрываемый файл видео (или звуковой) с соответствующим расширением
 
-Рабочая ссылка для URL: `"http://localhost:3000/sdocs/files/pink1.mp4"`  
-Рабочая ссылка для URL: `"https://www.youtube.com/watch?v=vBUcS1O5giM"`  
 
+<details>
+<summary>**Текст примера**</summary>
+
+Между вызовом `import` и тегом `<ReactPlayer` обязательно пропуск в одну строку 
+>`import ReactPlayer from "react-player";`
+> 
+> `<ReactPlayer playing controls url='/sdocs/./files/enigma92.mp4' />`
+>***
+Если надо вызвать проигрывание с YouTube, то url равен ссылке, например:
+> `<ReactPlayer playing controls url='https://www.youtube.com/embed/8owG83ozHYw?si=9CuD8fhiLtLjiotn' />`
+</details>
+
+
+<ReactPlayer playing controls url='/sdocs/./files/enigma92.mp4' />
 
 [Обсуждение](https://stackoverflow.com/questions/69179910/docusaurus-2-inclusion-of-a-video-file-in-a-markdown-file)  
 [Свойства проигрывателя](https://www.npmjs.com/package/react-player)
