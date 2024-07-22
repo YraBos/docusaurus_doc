@@ -20,4 +20,23 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-} 
+}
+
+/*
+details > summary {
+        padding: 5px;
+        background-color: #FFFF66;
+        color: #333;
+        border: 1px #ccc solid;
+        cursor: pointer;
+    }
+
+    details > div {
+        border: 1px #ccc solid;
+        padding: 10px;
+    }
+    details[open] > summary {
+        color:#FFFF66;
+        background-color:#333;
+   }
+*/

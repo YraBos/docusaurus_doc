@@ -19,18 +19,32 @@ import ReactPlayer from "react-player";
 
 <details>
 <summary>**Текст примера**</summary>
-
 Между вызовом `import` и тегом `<ReactPlayer` обязательно пропуск в одну строку 
 >`import ReactPlayer from "react-player";`
 > 
-> `<ReactPlayer playing controls url='/sdocs/./files/enigma92.mp4' />`
+> `<ReactPlayer playing controls url='/sdocs/./files/prof.mp3' width = '50%' height = '50px />`
 >***
 Если надо вызвать проигрывание с YouTube, то url равен ссылке, например:
 > `<ReactPlayer playing controls url='https://www.youtube.com/embed/8owG83ozHYw?si=9CuD8fhiLtLjiotn' />`
+***
+Если при вызове плеера присутствует ключевое слово 'playing' воспроизведение начинается по готовности
 </details>
 
+<ReactPlayer controls url='/sdocs/./files/prof.mp3' width = '50%' height = '50px' />  
+Звуковой файл, источник на GitHub
+***
+<ReactPlayer controls url='https://www.youtube.com/embed/8owG83ozHYw?si=9CuD8fhiLtLjiotn' />  
+Видео, источник YouTube
 
-<ReactPlayer playing controls url='/sdocs/./files/enigma92.mp4' />
+***
+:::info внимание
+Размещать на GitHub большие видео не целесообразно:
+- есть ограничение на размер закачиваемых файлов на GitHub до 100мб
+- будет долго происходить выполнение **yarn deploy**
 
-[Обсуждение](https://stackoverflow.com/questions/69179910/docusaurus-2-inclusion-of-a-video-file-in-a-markdown-file)  
-[Свойства проигрывателя](https://www.npmjs.com/package/react-player)
+Поэтому лучше, если источником видео будет выступать отдельный ресурс или YouTube
+:::
+
+***
+[Свойства проигрывателя](https://www.npmjs.com/package/react-player)  
+[Обсуждения](https://stackoverflow.com/questions/69179910/docusaurus-2-inclusion-of-a-video-file-in-a-markdown-file)  
