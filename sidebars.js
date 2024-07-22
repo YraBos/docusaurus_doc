@@ -31,7 +31,7 @@ module.exports = {
                     link: {type: 'doc', id: 'docusaurus/howto/howto'},
                     items: [
                         'docusaurus/howto/tables','docusaurus/howto/quote','docusaurus/howto/message','docusaurus/howto/line',
-                        'docusaurus/howto/youtube','docusaurus/howto/collapse','docusaurus/howto/copy-file',
+                        'docusaurus/howto/collapse','docusaurus/howto/youtube','docusaurus/howto/copy-file',
 
                     ]
 
