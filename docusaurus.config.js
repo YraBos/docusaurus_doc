@@ -27,7 +27,6 @@ module.exports = {
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-//  staticDirectories: ['public'],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -36,6 +35,23 @@ module.exports = {
     defaultLocale: 'ru',
     locales: ['ru'],
   },
+
+  headTags: [
+    {
+        tagName: 'meta',
+        attributes: {
+            name: 'keywords',
+            content: 'docusaurus, web, статический сайт, документация',
+        },
+    },
+    {
+        tagName: 'meta',
+        attributes: {
+            name: 'description',
+            content: 'Docusaurus: создание проектов',
+        },
+    },
+  ],
 
   presets: [
     [
