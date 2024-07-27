@@ -9,19 +9,19 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
   title: 'Документация',
-  tagline: 'docs',
+  tagline: 'docusaurus',
   favicon: 'img/favicon.ico',
 
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/sdocs/',
+  baseUrl: '/docusaurus/',
 
   // Set the production url of your site here
   url: 'https://yrabos.github.io',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'yrabos', // Usually your GitHub org/user name.
-  projectName: 'sdocs', // Usually your repo name.
+  projectName: 'docusaurus', // Usually your repo name.
   deploymentBranch: 'main',
   trailingSlash: true,
 
@@ -60,7 +60,7 @@ module.exports = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/YraBos/hdocusaurus/edit/main',
+          editUrl: 'https://github.com/YraBos/docusaurus_doc/edit/main',
           editLocalizedFiles: true,
           routeBasePath: '/',
           showLastUpdateTime: true,
