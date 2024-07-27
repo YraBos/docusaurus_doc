@@ -1,7 +1,7 @@
 module.exports = {
 
     docs: [
-        'about',
+//        'about',
         {
             type: 'category',
             label: 'Docusaurus',
