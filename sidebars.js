@@ -6,13 +6,13 @@ module.exports = {
                 type: 'category',
                 label: 'Создание проекта',
                 link: {type: 'doc', id: 'create/create'},
-                items: [ 'create/create_local', 'create/create_deploy', ],
+                items: [ 'create/local', 'create/deploy', ],
             },
             {
                 type: 'category',
                 label: 'Редактирование проекта',
                 link: {type: 'doc', id: 'edit/edit'},
-                items: [ 'edit/start', ]
+                items: [ 'edit/start','edit/new-pages' ]
             },
             {
                 type: 'category',
