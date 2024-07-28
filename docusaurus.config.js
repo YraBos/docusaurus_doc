@@ -41,7 +41,7 @@ module.exports = {
         tagName: 'meta',
         attributes: {
             name: 'keywords',
-            content: 'docusaurus, docusaurus create, docusaurus deploy, docusaurus создать','docusaurus git-pages',
+            content: 'docusaurus, docusaurus web, статический сайт, web документация, docusaurus create, docusaurus deploy',
         },
     },
     {
