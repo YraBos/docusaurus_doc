@@ -1,44 +1,26 @@
 module.exports = {
 
     docs: [
-//        'about',
-        {
-            type: 'category',
-            label: 'Docusaurus',
-            link: {type: 'doc', id: 'docusaurus/docusaurus'},
-            items: [
-                'docusaurus/install',
-                {
-                    type: 'category',
-                    label: 'Создание проекта',
-                    link: {type: 'doc', id: 'docusaurus/create/create'},
-                    items: [
-                        'docusaurus/create/create_local',
-                        'docusaurus/create/create_deploy',
-                    ],
-                },
-                {
-                    type: 'category',
-                    label: 'Редактирование проекта',
-                    link: {type: 'doc', id: 'docusaurus/edit/edit'},
-                    items: [
-                        'docusaurus/edit/start',
-                    ]
-                },
-                {
-                    type: 'category',
-                    label: 'How-To',
-                    link: {type: 'doc', id: 'docusaurus/howto/howto'},
-                    items: [
-                        'docusaurus/howto/tables','docusaurus/howto/quote','docusaurus/howto/message','docusaurus/howto/line',
-                        'docusaurus/howto/collapse','docusaurus/howto/youtube','docusaurus/howto/copy-file','docusaurus/howto/play',
-
-                    ]
-
-                },
-           ],
-        },
-
+        'docusaurus','install',
+            {
+                type: 'category',
+                label: 'Создание проекта',
+                link: {type: 'doc', id: 'create/create'},
+                items: [ 'create/create_local', 'create/create_deploy', ],
+            },
+            {
+                type: 'category',
+                label: 'Редактирование проекта',
+                link: {type: 'doc', id: 'edit/edit'},
+                items: [ 'edit/start', ]
+            },
+            {
+                type: 'category',
+                label: 'How-To',
+                link: {type: 'doc', id: 'howto/howto'},
+                items: [
+                    'howto/tables','howto/quote','howto/message','howto/line', 'howto/collapse','howto/youtube','howto/copy-file','howto/play', ]
+            },
     ]
 }
 

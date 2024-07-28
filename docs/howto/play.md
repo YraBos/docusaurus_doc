@@ -19,18 +19,20 @@ import ReactPlayer from "react-player";
 
 <details>
 <summary>**Текст примера**</summary>
-Между вызовом `import` и тегом `<ReactPlayer` обязательно пропуск в одну строку 
+Между вызовом `import` и тегом `ReactPlayer` обязательно пропуск в одну строку 
 >`import ReactPlayer from "react-player";`
 > 
-> `<ReactPlayer playing controls url='/sdocs/./files/prof.mp3' width = '50%' height = '50px />`
+> `<ReactPlayer playing controls url='/docusaurus/./files/prof.mp3' width = '50%' height = '50px />`
 >***
 Если надо вызвать проигрывание с YouTube, то url равен ссылке, например:
 > `<ReactPlayer playing controls url='https://www.youtube.com/embed/8owG83ozHYw?si=9CuD8fhiLtLjiotn' />`
 ***
-Если при вызове плеера присутствует ключевое слово 'playing' воспроизведение начинается по готовности
+Если при вызове плеера присутствует ключевое слово 'playing' воспроизведение начинается по готовности проигрывать файл. 
+То есть открытие страницы, где присутствует соответствующий код, начнет проигрывать сразу или почти сразу. 
+Иначе для проигрывания необходимо нажать "play".
 </details>
 
-<ReactPlayer controls url='/sdocs/./files/prof.mp3' width = '50%' height = '50px' />  
+<ReactPlayer controls url='/docusaurus/./files/prof.mp3' width = '50%' height = '50px' />  
 Звуковой файл, источник на GitHub
 ***
 <ReactPlayer controls url='https://www.youtube.com/embed/8owG83ozHYw?si=9CuD8fhiLtLjiotn' />  
