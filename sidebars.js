@@ -12,7 +12,7 @@ module.exports = {
                 type: 'category',
                 label: 'Редактирование проекта',
                 link: {type: 'doc', id: 'edit/edit'},
-                items: [ 'edit/start','edit/new-pages' ]
+                items: [ 'edit/start','edit/new-pages','edit/navbar-items' ]
             },
             {
                 type: 'category',
