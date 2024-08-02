@@ -69,7 +69,7 @@ module.exports = {
       },
       footer: {
         style: 'dark',
-        copyright: "Copyright © ${new Date().getFullYear()} Docusaurus Info",
+        copyright: " ",
       },
       prism: {
         theme: prismThemes.nightOwlLight,
