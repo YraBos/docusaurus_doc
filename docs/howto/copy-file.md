@@ -11,7 +11,7 @@ title: 'Копирование ресурса'
 ***
 **Получено опытным путем:**
 1. В папке static создаем каталог с любым именем, например files
-2. В папку files кладем копируемые файлы, для пример файл будет с именем sample.zip (внутри 2 файла: table.dbf, table.cdx)
+2. В папку files кладем копируемые файлы, для пример файл будет с именем sample.zip (внутри 1 файл: copy-file.md)
 3. Создаем ссылку на загрузку, например: `[Загрузить архив](pathname:///files/sample.zip)`.  
 **Важным** является наличие `pathname:///`, [подробнее](https://docusaurus.io/docs/advanced/routing#escaping-from-spa-redirects)
 
