@@ -1,26 +1,20 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
-/** @type {import('@docusaurus/types').Config} */
 module.exports = {
-  title: 'Документация',
+  title: 'Docusaurus',
   tagline: 'docusaurus',
   favicon: 'img/favicon.ico',
 
   baseUrl: '/docusaurus/',
   url: 'https://yrabos.github.io',
 
-  organizationName: 'yrabos', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'yrabos',
+  projectName: 'docusaurus',
   deploymentBranch: 'main',
   trailingSlash: true,
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-
-  i18n: {
-    defaultLocale: 'ru',
-    locales: ['ru'],
-  },
 
   headTags: [
     {
@@ -42,11 +36,10 @@ module.exports = {
   presets: [
     [
       '@docusaurus/preset-classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/YraBos/docusaurus_doc/edit/main',
+          editUrl: 'https://github.com/yrabos/docusaurus_doc/edit/main',
           editLocalizedFiles: true,
           routeBasePath: '/',
           showLastUpdateTime: true,
@@ -61,20 +54,21 @@ module.exports = {
   themeConfig:
     ({
       navbar: {
-        title: 'Docusaurus',
+        title: 'Документация',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',
         },
       },
+
       footer: {
         style: 'dark',
-        copyright: " ",
+        copyright: `Copyright © ${new Date().getFullYear()}.`
       },
+
       prism: {
-        theme: prismThemes.nightOwlLight,
-        darkTheme: prismThemes.vsDark,
-        additionalLanguages: ['bash', 'css', 'java', 'json'],
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
 };
