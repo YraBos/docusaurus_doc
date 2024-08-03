@@ -11,4 +11,4 @@ title: 'Цитаты'
 Количество строк в цитатах не ограничено
 
 
-Посмотреть [Текст страницы](pathname:///files/howto/qoute.txt)
+Посмотреть [Текст страницы](pathname:///files/howto/quote.txt)

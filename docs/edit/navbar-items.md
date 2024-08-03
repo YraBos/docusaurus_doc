@@ -16,7 +16,7 @@ title: 'Навигационная панель'
 Для примера добавим 2 ссылки на пункты "Создание проекта" (create/create) и "Первый старт" (edit/start), 
 и добавим интернет ссылку на сайт по описанию языка markdown. 
 Реализуется это добавлением массива items в объект navbar файла конфигурации docusaurus.config.js. 
-Пример реализации представлен [здесь](pathname:///files/docusaurus.config_navbar_items.txt) 
+Пример реализации представлен [здесь](pathname:///files/docusaurus.config_navbar_items.txt). 
    
 
 Если мы изменим содержание docusaurus.config.js, то получим новую функциональность.
