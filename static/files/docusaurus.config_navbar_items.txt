@@ -31,15 +31,14 @@ module.exports = {
 
   themeConfig:
     ({
-      navbar: {
+      navbar: { // Панель навигации
         title: 'Документация',
         logo: {
           alt: 'Документация',
           src: 'img/logo.svg',
         },
 
-      // добавляем ссылки в навигационной панели
-      items: [
+      items: [ // добавляем новые пункты
         {
             type: 'doc',
             position: 'left',

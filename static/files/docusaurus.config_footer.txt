@@ -1,0 +1,108 @@
+import {themes as prismThemes} from 'prism-react-renderer';
+
+module.exports = {
+  title: 'Docusaurus',
+  tagline: 'mydocs',
+  favicon: 'img/favicon.ico',
+
+  url: 'https://mygit.github.io',
+  baseUrl: '/',
+
+  organizationName: 'mygit',
+  projectName: 'mygit.github.io',
+
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      ({
+        docs: {
+          sidebarPath: './sidebars.js',
+          routeBasePath: '/',
+        },
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      }),
+    ],
+  ],
+
+  themeConfig:
+    ({
+      navbar: { // Панель навигации
+        title: 'Документация',
+        logo: {
+          alt: 'Документация',
+          src: 'img/logo.svg',
+        },
+
+      items: [ // добавляем новые пункты
+        {
+            type: 'doc',
+            position: 'left',
+            label: 'Создать',
+            docId: 'create/create',
+        },
+        {
+            type: 'doc',
+            position: 'left',
+            label: 'Редактировать',
+            docId: 'edit/start',
+        },
+        {
+           label: 'MarkDown',
+           to: 'https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/',
+        },
+      ],
+     },
+
+
+      footer: { // Нижний колонтитул
+        style: 'dark',
+        copyright: `Copyright © ${new Date().getFullYear()}. Vasya Pupkin Corporation`,
+        links: [
+            {
+                title: 'Полезные ссылки',
+                items: [
+                    { // внутренний раздел
+                        label: 'Создать',
+                        to: 'create',
+                    },
+                    { // внутренний раздел
+                        label: 'Изменить',
+                        to: 'edit',
+                    },
+                    { // интернет ссылка
+                        label: 'MarkDown',
+                        href: 'https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/'
+                    }
+                ]
+            },
+            {
+                title: 'Сообщество',
+                items: [
+                    { // интернет ссылка
+                        label: 'Stack Overflow',
+                        href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                    },
+                ],
+           },
+           {
+                title: 'Контакты',
+                items: [
+                    { // html вставка
+                        html: `Беларусь, г. Минск<br/>ул. Пролетарская, оф. 2014а<br/>тел. 00011122233, 00022233111`,
+                    },
+                ],
+          },
+        ]
+      },
+
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      },
+    }),
+};

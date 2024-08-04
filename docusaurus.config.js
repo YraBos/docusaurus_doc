@@ -63,7 +63,7 @@ module.exports = {
 
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()}.`
+        copyright: `Yuri Bozenenkov,  © ${new Date().getFullYear()}.`
       },
 
       prism: {
