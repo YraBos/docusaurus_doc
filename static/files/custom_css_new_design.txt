@@ -1,0 +1,64 @@
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #0f81c7;
+  --ifm-color-primary-dark: #0d74b3;
+  --ifm-color-primary-darker: #0d6ea9;
+  --ifm-color-primary-darkest: #0a5a8b;
+  --ifm-color-primary-light: #108edb;
+  --ifm-color-primary-lighter: #1194e5;
+  --ifm-color-primary-lightest: #27a3ef;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #50b7f7;
+  --ifm-color-primary-dark: #31aaf6;
+  --ifm-color-primary-darker: #21a4f5;
+  --ifm-color-primary-darkest: #0a8bdb;
+  --ifm-color-primary-light: #6fc4f8;
+  --ifm-color-primary-lighter: #7fcaf9;
+  --ifm-color-primary-lightest: #aedefb;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+[data-theme='light'] body {
+background-color: #E0FFFF; /* Цвет фона */
+color: #333333; /* Цвет текста */
+}
+
+/* Навигационная панель */
+[data-theme='light'] .navbar {
+    background-color: #FFFFCC; /* Цвет фона */
+    color: #FF0000; /* Цвет текста */
+}
+
+/* Навигационная панель */
+[data-theme='light'] .navbar__link {
+    color: #006A55; /* Цвет ссылок */
+}
+
+/* Нижний колонтитул */
+[data-theme='light'] .footer {
+    background-color: #336666; /* Цвет фона */
+    color: #FFFF66; /* Цвет текста */
+}
+
+/* Нижний колонтитул */
+[data-theme='light'] .footer__link-item {
+    color: #FFFF66; /* Цвет текста ссылок */
+}
+
+/* Меню боковой панели */
+[data-theme='light'] .menu {
+    display: true;
+    background-color: #CCCC99; /* Цвет фона */
+    color: #000000; /* Цвет текста */
+}
+
+/* Меню боковой панели */
+[data-theme='light'] .menu__link {
+    color: #000000; /* Цвет текста ссылок */
+    font-weight: bold;
+}

@@ -12,7 +12,14 @@ module.exports = {
                 type: 'category',
                 label: 'Редактирование проекта',
                 link: {type: 'doc', id: 'edit/edit'},
-                items: [ 'edit/start','edit/new-pages','edit/navbar-items','edit/footer-bar','edit/color-schemes']
+                items: [ 'edit/start','edit/new-pages','edit/navbar-items','edit/footer-bar',
+                    {
+                        type: 'category',
+                        label: 'Управление дизайном',
+                        link: {type: 'doc', id: 'edit/design/design'},
+                        items: ['edit/design/color-schemes','edit/design/continue-changes','edit/design/find']
+                    }
+                ]
             },
             {
                 type: 'category',
