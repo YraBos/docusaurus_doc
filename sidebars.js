@@ -17,9 +17,15 @@ module.exports = {
                         type: 'category',
                         label: 'Управление дизайном',
                         link: {type: 'doc', id: 'edit/design/design'},
-                        items: ['edit/design/color-schemes','edit/design/continue-changes','edit/design/find']
-                    }
-                ]
+                        items: ['edit/design/color-schemes','edit/design/continue-changes','edit/design/find'],
+                    },
+                ],
+            },
+            {
+                type: 'category',
+                label: 'Продвижение сайта',
+                link: {type: 'doc', id: 'promotion/promotion'},
+                items: ['promotion/config'],
             },
             {
                 type: 'category',
