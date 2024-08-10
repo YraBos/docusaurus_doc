@@ -6,4 +6,11 @@ title: 'Продвижение сайта'
 Но, про созданный сайт ни кто знать не будет и "загуглить" его никто не сможет, если не принять специальные меры.
 
 - Создать описание и определить ключевые слова для поисковых систем
-- 
+- Воспользоваться инструментами Google
+
+
+
+**См. также**  
+[Индексация страниц](https://figure.media/indeksaciya-stranic-v-google-kak-dobavit-sajt-v-poisk-gugl/)  
+[10 способов заставить Google индексировать сайт](https://lanet.click/ru/indeksatsiia-saitu-v-google/)  
+[Отчеты об индексировании страниц](https://support.google.com/webmasters/answer/7440203?hl=ru)  

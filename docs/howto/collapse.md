@@ -17,4 +17,5 @@ title: 'Сворачивание текста'
 :::
 </details>
 
+
 Посмотреть [Текст страницы](pathname:///files/howto/collapse.txt)

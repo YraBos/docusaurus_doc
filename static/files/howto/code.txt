@@ -1,0 +1,22 @@
+---
+title: 'Блоки кода'
+---
+
+В текст можно вставлять блоки кода с подсветкой (или без).
+
+Например, описываем вставку массива headTags в файл docusaurus.config.js:
+
+```js title="docusaurus.config.js"
+module.exports = {
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'icon',
+        href: '/img/docusaurus.png',
+      },
+    },
+  ],
+};
+```
+

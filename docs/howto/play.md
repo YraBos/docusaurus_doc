@@ -1,5 +1,5 @@
 ---
-title: 'Проигрывание видео'
+title: 'Проигрывание аудио и видео'
 ---
 import ReactPlayer from "react-player";
 

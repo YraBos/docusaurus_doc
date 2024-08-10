@@ -25,16 +25,14 @@ module.exports = {
                 type: 'category',
                 label: 'Продвижение сайта',
                 link: {type: 'doc', id: 'promotion/promotion'},
-                items: ['promotion/config'],
+                items: ['promotion/keywords','promotion/sitemap'],
             },
             {
                 type: 'category',
                 label: 'How-To',
                 link: {type: 'doc', id: 'howto/howto'},
                 items: [
-                    'howto/tables','howto/quote','howto/message','howto/line', 'howto/collapse','howto/youtube','howto/copy-file','howto/play', ]
+                    'howto/tables','howto/quote','howto/message','howto/code','howto/line', 'howto/collapse','howto/youtube','howto/copy-file','howto/play', ]
             },
     ]
 }
-
-// 'edit/color-schemes','edit/promotion'

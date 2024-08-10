@@ -20,15 +20,15 @@ module.exports = {
     {
         tagName: 'meta',
         attributes: {
-            name: 'keywords',
-            content: 'docusaurus, docusaurus web, статический сайт, web документация, docusaurus create, docusaurus deploy, docusaurus site',
+            name: 'description',
+            content: 'Docusaurus',
         },
     },
     {
         tagName: 'meta',
         attributes: {
-            name: 'description',
-            content: 'Docusaurus: создание проектов',
+            name: 'keywords',
+            content: 'docusaurus site create deploy promotion github pages сайт создать развернуть продвижение',
         },
     },
   ],
@@ -39,7 +39,7 @@ module.exports = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/yrabos/docusaurus_doc/edit/main',
+//          editUrl: 'https://github.com/yrabos/docusaurus_doc/edit/main',
           editLocalizedFiles: true,
           routeBasePath: '/',
           showLastUpdateTime: true,
@@ -63,7 +63,7 @@ module.exports = {
 
       footer: {
         style: 'dark',
-        copyright: `Yuri Bozenenkov,  © ${new Date().getFullYear()}.`
+        copyright: `Minsk,  ${new Date().getFullYear()}.`
       },
 
       prism: {
