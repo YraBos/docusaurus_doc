@@ -2,18 +2,16 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 module.exports = {
   title: 'Docusaurus',
-  tagline: 'Docusaurus installation and creation of websites',
+  tagline: 'mydocs',
   favicon: 'img/favicon.ico',
 
-  baseUrl: '/docusaurus/',
-  url: 'https://yrabos.github.io',
+  url: 'https://mygit.github.io',
+  baseUrl: '/',
 
-  organizationName: 'yrabos',
-  projectName: 'docusaurus',
-  deploymentBranch: 'main',
-  trailingSlash: true,
+  organizationName: 'mygit',
+  projectName: 'mygit.github.io',
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   headTags: [
@@ -28,7 +26,7 @@ module.exports = {
         tagName: 'meta',
         attributes: {
             name: 'keywords',
-            content: 'docusaurus installation example config site create build deploy promotion github pages docusaurus установка примеры настройка сайта развертывание сайтов продвижение',
+            content: 'docusaurus site create deploy',
         },
     },
   ],
@@ -38,11 +36,8 @@ module.exports = {
       '@docusaurus/preset-classic',
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-//          editUrl: 'https://github.com/yrabos/docusaurus_doc/edit/main',
-          editLocalizedFiles: true,
+          sidebarPath: './sidebars.js',
           routeBasePath: '/',
-          showLastUpdateTime: true,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -53,18 +48,31 @@ module.exports = {
 
   themeConfig:
     ({
-      navbar: {
+      navbar: { // Панель навигации
         title: 'Документация',
         logo: {
-          alt: 'Logo',
+          alt: 'Документация',
           src: 'img/logo.svg',
         },
-      },
 
-      footer: {
-        style: 'dark',
-        copyright: `Minsk,  ${new Date().getFullYear()}.`
-      },
+      items: [ // добавляем новые пункты
+        {
+          type: 'doc',
+          position: 'left',
+          label: 'Старт',
+          docId: 'edit/start',
+        },
+        {
+           label: 'MarkDown',
+           to: 'https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/'
+        },
+        {
+            position: 'left',
+            label: 'Блоги',
+            to: '/blog',
+        },
+      ],
+     },
 
       prism: {
         theme: prismThemes.github,
@@ -72,5 +80,3 @@ module.exports = {
       },
     }),
 };
-
-

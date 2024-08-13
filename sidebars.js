@@ -12,13 +12,20 @@ module.exports = {
                 type: 'category',
                 label: 'Редактирование проекта',
                 link: {type: 'doc', id: 'edit/edit'},
-                items: [ 'edit/start','edit/new-pages','edit/navbar-items','edit/footer-bar',
+                items: [ 'edit/start','edit/new-pages',
+                    {
+                        type: 'category',
+                        label: 'Навигационная панель',
+                        link: {type: 'doc', id: 'edit/navbar/navbar'},
+                        items: ['edit/navbar/start','edit/navbar/to','edit/navbar/blog','edit/navbar/menu'],
+                    },
                     {
                         type: 'category',
                         label: 'Управление дизайном',
                         link: {type: 'doc', id: 'edit/design/design'},
                         items: ['edit/design/color-schemes','edit/design/continue-changes','edit/design/find'],
                     },
+                    'edit/footer-bar',
                 ],
             },
             {

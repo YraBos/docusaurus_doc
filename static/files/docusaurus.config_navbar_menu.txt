@@ -1,0 +1,61 @@
+
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+
+  headTags: [
+    {
+        tagName: 'meta',
+        attributes: {
+            name: 'description',
+            content: 'Docusaurus',
+        },
+    },
+    {
+        tagName: 'meta',
+        attributes: {
+            name: 'keywords',
+            content: 'docusaurus site create deploy',
+        },
+    },
+  ],
+
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      ({
+        docs: {
+          sidebarPath: './sidebars.js',
+          routeBasePath: '/',
+        },
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      }),
+    ],
+  ],
+
+  themeConfig:
+    ({
+      navbar: { // Панель навигации
+        title: 'Документация',
+        logo: {
+          alt: 'Документация',
+          src: 'img/logo.svg',
+        },
+
+      items: [ // добавляем новые пункты
+        {
+          type: 'doc',
+          position: 'left',
+          label: 'Старт',
+          docId: 'edit/start',
+        },
+      ],
+     },
+
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
+      },
+    }),
+};
