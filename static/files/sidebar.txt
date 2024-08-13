@@ -1,0 +1,18 @@
+module.exports = {
+    docs: [ // Основное меню
+        'about', // отдельный пункт
+            {
+                type: 'category',
+                label: 'Создание проекта',
+                link: {type: 'doc', id: 'create/create'}, // узел дерева - название раздела
+                items: [ 'create/local', ], // пункты, входящие в раздел
+            },
+            {
+                type: 'category',
+                label: 'Редактирование проекта',
+                link: {type: 'doc', id: 'edit/edit'}, // узел дерева - название раздела
+                items: [ 'edit/start', ], // пункты, входящие в раздел
+            },
+    ],
+}
+

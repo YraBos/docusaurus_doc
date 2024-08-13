@@ -1,5 +1,5 @@
 ---
-title: 'Docusaurus'
+title: 'Введение'
 slug: /
 ---
 

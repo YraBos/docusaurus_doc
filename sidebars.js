@@ -19,13 +19,13 @@ module.exports = {
                         link: {type: 'doc', id: 'edit/navbar/navbar'},
                         items: ['edit/navbar/start','edit/navbar/to','edit/navbar/blog','edit/navbar/menu'],
                     },
+                    'edit/footer-bar',
                     {
                         type: 'category',
                         label: 'Управление дизайном',
                         link: {type: 'doc', id: 'edit/design/design'},
                         items: ['edit/design/color-schemes','edit/design/continue-changes','edit/design/find'],
                     },
-                    'edit/footer-bar',
                 ],
             },
             {
