@@ -46,7 +46,8 @@ module.exports = {
 Пример реализации представлен [здесь](pathname:///files/docusaurus.config_headtags.txt).
 
 <br/><br/><br/>
-**См. также**
-[Мета-теги](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%B3%D0%B8#:~:text=%D0%9C%D0%B5%D1%82%D0%B0%2D%D1%82%D0%B5%D0%B3%D0%B8%20(%D0%B0%D0%BD%D0%B3%D0%BB.,(X)HTML%2D%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0))
+**См. также**  
+[Мета-теги](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%B3%D0%B8#:~:text=%D0%9C%D0%B5%D1%82%D0%B0%2D%D1%82%D0%B5%D0%B3%D0%B8%20(%D0%B0%D0%BD%D0%B3%D0%BB.,(X)HTML%2D%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0))    
+[Сервис статистики запросов ключевого слова](https://keywordtool.io/ru)    
 
 
