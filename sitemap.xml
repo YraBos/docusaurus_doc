@@ -8,178 +8,1173 @@
 
 
 <url>
-  <loc>https://yrabos.github.io/docusaurus/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/install/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/issues</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/create/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/pulls</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/edit/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/howto/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/security</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/create/local/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/blob/main/.nojekyll</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/blob/main/404.html</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/blob/main/index.html</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/labels</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/create/deploy/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/milestones</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/edit/start/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/edit/new-pages/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/caches</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/edit/navbar-items/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10536591671</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/edit/footer-bar/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10366729861</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/edit/design/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10361420256</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/howto/tables/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10339395456</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/howto/quote/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10334028025</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/howto/message/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273546524</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/howto/line/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273286288</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/howto/collapse/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10249014954</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/howto/youtube/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10248843417</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/howto/copy-file/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237850287</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/howto/play/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237778367</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/edit/design/find/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227696640</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/docusaurus.config_start.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227019334</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10226919123</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10211210057</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10206392876</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204641866</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204564396</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10203670611</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139825346</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139529323</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10135381229</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131683696</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131434652</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122947831</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/labels?sort=name-asc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/docusaurus.config_navbar_items.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels?sort=name-desc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/docusaurus.config_footer.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels?sort=count-desc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/edit/design/color-schemes/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels?sort=count-asc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/edit/design/continue-changes/</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels/bug</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/howto/quote.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels/documentation</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/howto/message.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels/duplicate</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/howto/line.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels/enhancement</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/howto/collapse.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels/good%20first%20issue</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/howto/youtube.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels/help%20wanted</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/howto/copy-file.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels/invalid</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/howto/play.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels/question</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/custom_css_blue.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/labels/wontfix</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?state=open</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?state=closed</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10536591671/job/29196941692</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10536591671/job/29196943691</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10536591671/job/29196943694</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10536591671/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/eb6bae47e3b5cb2d725b535c447a756a0722ae76</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10366729861/job/28696639479</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10366729861/job/28696648373</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10366729861/job/28696648389</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10366729861/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/ce5e5b458783f412ed87672c12b2779a53a5a525</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10361420256/job/28681703105</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10361420256/job/28681710479</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10361420256/job/28681710473</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10361420256/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/e30aeb31a31919fe6c8f688620e98168c43367e1</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10339395456/job/28618686819</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10339395456/job/28618688862</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10339395456/job/28618688866</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10339395456/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/cc23e2b7b1014720847857b20d5d672c23228a52</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10334028025/job/28607017653</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10334028025/job/28607018989</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10334028025/job/28607018991</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10334028025/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/06781ae0624f8ac54462b61d77c8cf769529e76a</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273546524/job/28428242613</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273546524/job/28428250157</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273546524/job/28428250158</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273546524/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/efc393604583a2d30c7c2de8308279188f115318</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273286288/job/28427404764</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273286288/job/28427413805</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273286288/job/28427413806</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10273286288/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/73b694ce99a18c1519af8e7a6ef13795c9c97b60</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10249014954/job/28351490327</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10249014954/job/28351501371</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10249014954/job/28351501377</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10249014954/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/277a5d9d07736ae9238e48404adf1d8a20660df7</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10248843417/job/28350949602</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10248843417/job/28350957102</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10248843417/job/28350957117</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10248843417/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/65c6c2bca41a370aa8dee72636c7000bf04c97a1</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237850287/job/28321658676</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237850287/job/28321660122</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237850287/job/28321660124</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237850287/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/4a045553b434892d1c663129795beab454c230d9</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237778367/job/28321493066</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237778367/job/28321495394</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237778367/job/28321495392</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10237778367/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/69a596fd376c0b8dcd34fbf33d2897a4784f7048</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227696640/job/28299424253</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227696640/job/28299426070</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227696640/job/28299426068</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227696640/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/5ca4530e92fce1041f7854a22d65fff89123d906</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227019334/job/28297985208</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227019334/job/28297987712</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227019334/job/28297987713</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10227019334/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/39794e8b1661be3c605495a59911f54fb132b5fb</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10226919123/job/28297775065</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10226919123/job/28297777302</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10226919123/job/28297777303</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10226919123/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/417940cc3334ddbc246cfa24fdfc1b9c2f564384</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10211210057/job/28252130611</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10211210057/job/28252135316</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10211210057/job/28252135317</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10211210057/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/7a540ce95394dd9118c2a82d2e14ea9f852bd556</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10206392876/job/28239210700</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10206392876/job/28239217373</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10206392876/job/28239217370</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10206392876/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/f357c40c4a680143e7160810b6c415c5bafae3bb</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204641866/job/28233597260</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204641866/job/28233604048</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204641866/job/28233604054</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204641866/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/d84f475b1dfa2a96db2afdbd5a954a42167d5bdf</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204564396/job/28233346944</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204564396/job/28233353326</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204564396/job/28233353313</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10204564396/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/9d522bfa9d36deb8ef5e3791acad922f397b3b71</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10203670611/job/28230492535</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10203670611/job/28230499057</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10203670611/job/28230499050</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10203670611/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/f3d0b31d552015f1d7c9a1b199ce3a49c1992db2</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139825346/job/28033831905</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139825346/job/28033838984</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139825346/job/28033838983</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139825346/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/f2ff2a736995b5dd225bc5318a1284d30b785082</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139529323/job/28032996357</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139529323/job/28033001024</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139529323/job/28033001013</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10139529323/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/335e468485d9490e9881403a4732c4bb95d786f0</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10135381229/job/28022713160</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10135381229/job/28022715837</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10135381229/job/28022715836</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10135381229/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/66681ac15c012950b6d206714f32e4359968f7f3</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131683696/job/28014698613</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131683696/job/28014700707</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131683696/job/28014700711</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131683696/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/426575677d7655c3f90fe9b579073a51ef966f5d</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131434652/job/28014114416</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131434652/job/28014116075</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131434652/job/28014116074</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10131434652/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/3cfba76041c67ad3f44b59ed79fe2c8adfdabd7d</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122947831/job/27995670002</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122947831/job/27995672774</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122947831/job/27995672775</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122947831/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/c20248051ae28234904bb5f226228e81deb9dde4</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122554463</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122369626</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10062735918</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049823456</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049791107</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049771785</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 <url>
-  <loc>https://yrabos.github.io/docusaurus/files/custom_css_new_design.txt</loc>
-  <lastmod>2024-08-05T12:42:02+00:00</lastmod>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/2938b74a7fc68f0c922ccf150221c5ac2a94b31e</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122554463/job/27994832708</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122554463/job/27994834774</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122554463/job/27994834777</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122554463/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122369626/job/27994431500</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122369626/job/27994435420</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122369626/job/27994435436</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10122369626/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/af335adb7de73ffc7067025fd2a3e906e6380a87</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10062735918/job/27815935598</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10062735918/job/27815942571</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10062735918/job/27815942579</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10062735918/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049823456/job/27776579670</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049823456/job/27776583050</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049823456/job/27776583042</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049823456/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/2aedd14d08654a78c4fb680a00c2e2631f90d0c6</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049791107/job/27776492774</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049791107/job/27776499051</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049791107/job/27776499052</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049791107/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/3c7015c7f56d6c6d9e0f3b68167852c9f9693c6a</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049771785/job/27776440164</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049771785/job/27776450766</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049771785/job/27776450768</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/actions/runs/10049771785/usage</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/YraBos/docusaurus/commit/1229cb78c97f786475534a4028bd6a8364b9c129</loc>
+  <lastmod>2024-08-24T07:05:41+00:00</lastmod>
   <priority>0.41</priority>
 </url>
 
