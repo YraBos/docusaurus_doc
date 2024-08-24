@@ -2,7 +2,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 module.exports = {
   title: 'Docusaurus',
-  tagline: 'Docusaurus installation and creation of websites',
+  tagline: 'Docusaurus создание сайтов',
   favicon: 'img/favicon.ico',
 
   baseUrl: '/docusaurus/',
@@ -28,7 +28,7 @@ module.exports = {
         tagName: 'meta',
         attributes: {
             name: 'keywords',
-            content: 'docusaurus installation example config site create build deploy promotion github pages docusaurus установка примеры настройка сайта развертывание сайтов продвижение',
+            content: 'docusaurus установка настройка, docusaurus создать сайт, docusaurus примеры, docusaurus git pages, docusaurus install, docusaurus create deploy, docusaurus example',
         },
     },
   ],
