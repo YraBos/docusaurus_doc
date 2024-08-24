@@ -14,3 +14,4 @@ title: 'Продвижение сайта'
 [Индексация страниц](https://figure.media/indeksaciya-stranic-v-google-kak-dobavit-sajt-v-poisk-gugl/)  
 [10 способов заставить Google индексировать сайт](https://lanet.click/ru/indeksatsiia-saitu-v-google/)  
 [Отчеты об индексировании страниц](https://support.google.com/webmasters/answer/7440203?hl=ru)  
+[Сервис по ключевым словам](https://keywordtool.io/ru)
