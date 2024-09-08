@@ -26,6 +26,12 @@ module.exports = {
                         link: {type: 'doc', id: 'edit/design/design'},
                         items: ['edit/design/color-schemes','edit/design/continue-changes','edit/design/find'],
                     },
+                    {
+                        type: 'category',
+                        label: 'Поиск по сайту',
+                        link: {type: 'doc', id: 'edit/search/search'},
+                        items: ['edit/search/easyops-cn','edit/search/algolia'],
+                    },
                 ],
             },
             {
