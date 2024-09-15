@@ -85,6 +85,7 @@ module.exports = {
             language: ["en", "ru"], // включаем обрабатываемые языки
             indexBlog: false, // включаем индексирование для поиска блога (если он есть или мы этого хотим), иначе false
             indexPages: true, // индексируем страницы для поиска
+            highlightSearchTermsOnTargetPage: true, // подсветка найденного
           }),
         ],
       ],
