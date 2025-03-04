@@ -45,7 +45,8 @@ module.exports = {
                 label: 'How-To',
                 link: {type: 'doc', id: 'howto/howto'},
                 items: [
-                    'howto/tables','howto/quote','howto/message','howto/code','howto/line', 'howto/collapse','howto/youtube','howto/copy-file','howto/play', ]
+                    'howto/tables','howto/quote','howto/message','howto/code','howto/line','howto/highlight',
+                    'howto/collapse','howto/youtube','howto/copy-file','howto/play', ]
             },
     ]
 }
